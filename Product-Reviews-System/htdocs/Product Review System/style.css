@@ -1,0 +1,22 @@
+.progressSection .holder {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.progressSection .holder>div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.star-light {
+    color: rgba(158, 87, 151, 0.333) !important
+}
+
+.text-warning {
+    color: rgb(216, 45, 26) !important
+}
+
+.submit_star {
+    cursor: pointer;
+}
